@@ -1,1 +1,1 @@
-# Hand-Gesture-Recognition-Deep-Learning
+# Hand gesture recognition: deep learning
